@@ -1,0 +1,3 @@
+public void getdata(){
+sop("hii hello get to work ...until u reaches to ur goal")
+}
